@@ -36,5 +36,4 @@ This project presents a classical computer vision pipeline for herbal plant reco
 
 ## Author
 Nassali Victor
-Bachelor of Computer Science
-Ndejje University
+
